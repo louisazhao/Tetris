@@ -6,6 +6,7 @@ A small tetris game made with Unity.
 
 -------------------------------------
 Start Scene:
+
 Player can chose between different levels (0-10).
 The higher the level, the more difficult the game will be, as the minos will fall faster.
 
@@ -20,7 +21,7 @@ Level Scene:
 7. Has a go back button that will bring the player back to game menu (a confirmation window will pop up once the button is pressed)
 
 -------------------------------------
-Gameover Scene
+Gameover Scene:
 1. Display the gameover message (with animation to make the effect more appealing)
 2. Display how many scores the play got this time.
 3. Display the history high score.
